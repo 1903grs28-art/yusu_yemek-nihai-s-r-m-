@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609172221866",
+    "project_id": "yusuf-yemek",
+    "storage_bucket": "yusuf-yemek.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609172221866:android:d631109ebc8dae87e905d3",
+        "android_client_info": {
+          "package_name": "com.example.yusuf_yemek_uygulasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609172221866-8mrnhhv81i7vljhj8a02uuscke80rmrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMkD8VyEQHT0xd_SYpC96tUk_CkzWgvBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609172221866-8mrnhhv81i7vljhj8a02uuscke80rmrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
