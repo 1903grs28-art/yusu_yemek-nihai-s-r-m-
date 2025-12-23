@@ -7,7 +7,7 @@
 
     <application
         android:name="${applicationName}"
-        android:label="yusuf_yemek"
+        android:label="bal10 yemek"
         android:icon="@mipmap/ic_launcher">
 
         <activity
@@ -29,19 +29,16 @@
             </intent-filter>
         </activity>
 
-        <!-- DÜZELTME: Silinen API Anahtarı geri eklendi. -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyBqjtFWFy9hmFoV8rscyB-VRFv4qS2vVHI"/>
 
-        <!-- Flutter'ın eklentileri düzgün çalıştırması için gerekli meta-veri -->
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
 
     </application>
 
-    <!-- Metin işleme gibi bazı native özellikleri sorgulamak için gerekli -->
     <queries>
         <intent>
             <action android:name="android.intent.action.PROCESS_TEXT"/>
